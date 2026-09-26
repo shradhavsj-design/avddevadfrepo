@@ -1,0 +1,15 @@
+{
+	"name": "avddatafactory32",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5b4f553f-43e9-43ea-ad52-03e54a1dba3f",
+		"tenantId": "61f958b9-7781-4e6c-932f-7f72761dac9b"
+	}
+}
